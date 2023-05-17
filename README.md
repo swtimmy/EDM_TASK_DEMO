@@ -29,4 +29,9 @@ Beside that, The nav's List tab would bring you to the loan requirement list tha
 There can find out all loan requirement, Click "Detail" to see more information;
 Or Click "Update" to go to form section and submit a new form again.
 
+<img width="1212" alt="0" src="https://github.com/swtimmy/edm-task/assets/112110839/c8425a0a-7c98-4a08-98ea-24898cea8d41">
+<img width="1395" alt="1" src="https://github.com/swtimmy/edm-task/assets/112110839/16c4ae0a-258c-42c7-a800-490880985ffb">
+<img width="1399" alt="2" src="https://github.com/swtimmy/edm-task/assets/112110839/fcfc3341-44dc-4105-acd4-ef023bb13734">
+
+
 # Finish, Enjoy!
