@@ -6,9 +6,9 @@ Welcome to try it.
 Laravel version: 8.75
 Livewire version: 2.5
 
-#Database Name: laravel_edm_exam
-#DB Username: edm_exam_username
-#DB Password: edm_exam_password!
+> Database Name: laravel_edm_exam
+> DB Username: edm_exam_username
+> DB Password: edm_exam_password!
 
 ## Installation Step:
 
