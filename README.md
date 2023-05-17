@@ -1,3 +1,6 @@
+I push the project to https://edm-task.letgoaltech.com/.
+Welcome to try it.
+
 # EDM_TASK_DEMO
 
 Laravel version: 8.75
