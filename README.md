@@ -14,8 +14,8 @@ DB Password: edm_exam_password!
 php artisan migrate
 
 # install jetstream & livewire
-
-composer require laravel/jetstream
+composer install
+#
 php artisan jetstream:install livewire
 
 ## Then
